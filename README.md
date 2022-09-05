@@ -1,7 +1,7 @@
-[![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)])( https://xavierj96.github.io/XavierJ96-github.io/)
+[![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Living-the-Mountain-Life.jpg)](https://github.com/XavierJ96)
 <h1 align="center">Hi 👋, I'm Xavier Marcelinno Julies</h1>
 <h3 align="center">A passionate junior frontend developer from South Africa</h3>
-<img align="right" alt="Coding gif" width="400" src="https://animesher.com/orig/1/171/1714/17142/animesher.com_gif-anime-cap-retro-anime-1714248.gif">
+<img align="right" alt="Coding" width="400" src="https://animesher.com/orig/1/171/1714/17142/animesher.com_gif-anime-cap-retro-anime-1714248.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierj96&label=Profile%20views&color=0e75b6&style=flat" alt="xavierj96" /> </p>
 
