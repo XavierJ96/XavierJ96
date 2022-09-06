@@ -79,17 +79,3 @@
 <a href="https://instagram.com/marcelinnojuliez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelinnojuliez" height="30" width="40" /></a>
 </div>
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
