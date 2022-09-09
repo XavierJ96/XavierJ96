@@ -65,9 +65,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XavierJ96&theme=radical&hide_border=true&include_all_commits=false&count_private=false" align="center"  style="width: 60%" height="200" /></div>   
 <br/><br/>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierJ96&theme=radical&hide_border=true"  style="width: 60%" height="200" /></div>  
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierJ96&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="xavierj96" " align="center"  style="width: 50%" height="200" /></div>  
-
 <br/>  
 
 
