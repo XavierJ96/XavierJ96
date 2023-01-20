@@ -23,10 +23,10 @@
   <br/>
   
 
-- 🔭 I’m currently working on Frontend Mentor Challenges  
+- 🔭 I’m currently working on a Weather App 
   
 
-- 🌱 I’m currently learning on FreeCodeCamp and Udemy  
+- 🌱 I’m currently learning on Coursera Meta Front-end Developer  
   
 
 - 📫 How to reach me https://www.linkedin.com/in/xavier-julies/  
