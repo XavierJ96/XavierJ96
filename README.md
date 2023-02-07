@@ -23,7 +23,7 @@
   <br/>
   
 
-- 🔭 I’m currently working on a Weather App 
+- 🔭 I’m currently working on a NextJs Project
   
 
 - 🌱 I’m currently learning on Coursera Meta Front-end Developer  
