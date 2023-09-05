@@ -80,7 +80,7 @@
 
 
 ## :octocat: Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XavierJ96&theme=radical&hide_border=true&include_all_commits=false&count_private=false" align="center"  style="width: 60%" height="200" /></div>   
+<div align="center"><img src="https://github-readme-stats-git-master-xavierj96.vercel.app/api?username=XavierJ96&show_icons=true&theme=radical&show=prs_merged" align="center"  style="width: 60%" height="200" /></div>   
 <br/><br/>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierJ96&theme=radical&hide_border=true"  style="width: 60%" height="200" /></div>  
 <br/>  
