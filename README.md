@@ -6,7 +6,7 @@
 # <div align="center">Hi 👋, I'm Xavier Marcelinno Julies</div>  
   
 
-#### <div align="center">A passionate junior frontend developer from South Africa</div>  
+#### <div align="center">A passionate full stack developer from South Africa</div>  
 
 <br/>
 
