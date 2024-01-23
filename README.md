@@ -16,9 +16,6 @@
   
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/XavierJ96/XavierJ96/f090574eb9a341ce479f6449b72695ec1419277c/github-snake-dark.svg" align="center" height="" width="100%" />
-</div>  
   
   <br/>
   
