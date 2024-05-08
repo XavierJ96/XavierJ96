@@ -72,9 +72,9 @@
 
 
 ## :octocat: Github Stats  
-<div align="center"><img src="https://github-readme-stats-git-master-xavierj96.vercel.app/api?username=XavierJ96&show_icons=true&theme=radical&count_private=true&include_all_commits=true" align="center"  style="width: 60%" height="200" /></div>   
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierJ96&theme=radical&hide_border=true" align="center"  style="width: 60%" height="200" /></div>   
 <br/><br/>
-<div align="center"><img src="https://github-readme-streak-stats-fv4cms7v3-xavierj96.vercel.app?user=XavierJ96&theme=radical&hide_border=true&exclude_days=Sun%2CSat"  style="width: 60%" height="200" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XavierJ96&theme=radical&show_icons=true&hide_border=true&count_private=true"  style="width: 60%" height="200" /></div>  
 <br/>  
 
 
