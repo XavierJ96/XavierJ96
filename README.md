@@ -57,7 +57,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/f6128b6a17c28ec054b7ab67e595d39f503a0e17b116901141c05e1a1016985a/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" alt="Express.js" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
@@ -71,7 +71,7 @@
 
 
 ## :octocat: Github Stats  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierJ96&theme=radical&hide_border=true&exclude_days=Sun%2CSat" align="center"  style="width: 60%" height="200" /></div>   
+<div align="center"><img src="https://streak-stats.demolab.com?user=XavierJ96&theme=radical&exclude_days=Sun%2CSat" alt="GitHub Streak" /></div>   
 <br/><br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XavierJ96&theme=radical&show_icons=true&hide_border=true&count_private=true"  style="width: 60%" height="200" /></div>  
 <br/>  
