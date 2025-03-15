@@ -71,7 +71,7 @@
 
 
 ## :octocat: Github Stats  
-<div align="center"><img src="https://streak-stats.demolab.com?user=XavierJ96&theme=radical&exclude_days=Sun%2CSat" alt="GitHub Streak" /></div>   
+<div align="center"><img src="https://github-readme-streak-stats-khaki.vercel.app?user=XavierJ96&theme=radical&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></div>   
 <br/><br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XavierJ96&theme=radical&show_icons=true&hide_border=true&count_private=true"  style="width: 60%" height="200" /></div>  
 <br/>  
